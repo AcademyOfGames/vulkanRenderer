@@ -53,6 +53,9 @@
     <ClInclude Include="lve_swap_chain.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="lve_model.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="simple_shader.vert">
@@ -63,6 +66,9 @@
     </None>
     <None Include="compile_shaders.bat">
       <Filter>Shaders</Filter>
+    </None>
+    <None Include="lve_model.cpp">
+      <Filter>Source Files</Filter>
     </None>
   </ItemGroup>
 </Project>

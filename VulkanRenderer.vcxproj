@@ -164,6 +164,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="first_app.hpp" />
+    <ClInclude Include="lve_model.hpp" />
     <ClInclude Include="lve_pipeline.hpp" />
     <ClInclude Include="lve_swap_chain.hpp" />
     <ClInclude Include="lve_window.hpp" />
@@ -171,6 +172,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="compile_shaders.bat" />
+    <None Include="lve_model.cpp" />
     <None Include="simple_shader.frag" />
     <None Include="simple_shader.vert" />
   </ItemGroup>
