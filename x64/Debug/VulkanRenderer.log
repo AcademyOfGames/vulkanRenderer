@@ -1,6 +1,2 @@
 ﻿  first_app.cpp
-  lve_swap_chain.cpp
-C:\Users\USER\source\repos\VulkanRenderer\VulkanRenderer\lve_swap_chain.cpp(24,22): warning C4834: discarding return value of function with 'nodiscard' attribute
-  main.cpp
-  Generating Code...
   VulkanRenderer.vcxproj -> C:\Users\USER\source\repos\VulkanRenderer\x64\Debug\VulkanRenderer.exe
