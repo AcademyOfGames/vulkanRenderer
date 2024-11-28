@@ -126,7 +126,7 @@ namespace lve {
 
     void FirstApp::recordCommandBuffer(int imageIndex){
         static int frame = 0;
-        frame = (frame + 1) % 1000;
+        frame = (frame + 1) % 500;
         VkCommandBufferBeginInfo beginInfo{};
         beginInfo.sType = VK_STRUCTURE_TYPE_COMMAND_BUFFER_BEGIN_INFO;
 
